@@ -22,7 +22,7 @@ The following is an example of a recognizable Sudoku:
 8 0 0 7 3 0 0 0 9  
 0 0 0 0 6 9 1 0 3  
 
-Note that this project is unable to solve all Sudokus. Sudokus that require the most complex strategies are unable to be solved by this program.
+Note that this project is unable to solve all Sudoku. Sudoku that require the most complex strategies are unable to be solved by this program.
 
 ## Installation
 
