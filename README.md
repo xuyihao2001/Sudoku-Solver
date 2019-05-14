@@ -12,15 +12,6 @@ This project is able to read a .txt file containing a simple Sudoku with a speci
 4. Every new row in the Sudoku is encoded as a new row in the text file
 
 The following is an example of a recognizable Sudoku:
-0 9 0 0 0 0 0 0 1
-3 2 0 0 0 0 8 0 0
-7 0 0 0 0 0 0 9 0
-0 0 0 0 0 0 0 0 0
-0 8 0 3 0 0 0 7 0
-2 0 0 0 5 1 6 0 0
-0 0 0 0 8 0 2 6 0
-8 0 0 7 3 0 0 0 9
-0 0 0 0 6 9 1 0 3
 
 ## Installation
 
