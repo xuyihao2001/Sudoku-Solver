@@ -26,11 +26,11 @@ Note that this project is unable to solve all Sudokus. Sudokus that require the 
 
 ## Installation
 
-This project is created using Eclipse. You can run this project on Eclipse or any other Java IDE. For downloading Eclipse, visit https://www.eclipse.org/downloads/. For importing this project onto Eclipse, you can visit https://stackoverflow.com/questions/6760115/importing-a-github-project-into-eclipse for instructions written by others. Once you have imported the project onto Eclipse or other IDEs, click the "run" button and you get to play the Minesweeper game!
+This project is created using Eclipse. You can run this project on Eclipse or any other Java IDE. For downloading Eclipse, visit https://www.eclipse.org/downloads/. For importing this project onto Eclipse, you can visit https://stackoverflow.com/questions/6760115/importing-a-github-project-into-eclipse for instructions written by others. 
 
 ## Usage
 
-For personal entertainment purposes
+Once you have imported the project onto Eclipse or other IDEs, find a Sudoku you would like to solve and encode it in a .txt file according to the rules above. Then, click the "run" button and see if the Sudoku is successfully solved!
 
 ## Contributing
 
