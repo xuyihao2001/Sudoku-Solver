@@ -22,6 +22,8 @@ The following is an example of a recognizable Sudoku:
 8 0 0 7 3 0 0 0 9  
 0 0 0 0 6 9 1 0 3  
 
+Note that this project is unable to solve all Sudokus. Sudokus that require the most complex strategies are unable to be solved by this program.
+
 ## Installation
 
 This project is created using Eclipse. You can run this project on Eclipse or any other Java IDE. For downloading Eclipse, visit https://www.eclipse.org/downloads/. For importing this project onto Eclipse, you can visit https://stackoverflow.com/questions/6760115/importing-a-github-project-into-eclipse for instructions written by others. Once you have imported the project onto Eclipse or other IDEs, click the "run" button and you get to play the Minesweeper game!
