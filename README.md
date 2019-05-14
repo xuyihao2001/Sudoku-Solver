@@ -4,7 +4,7 @@ A project that solves a medium-level Sudoku
 
 ## Description
 
-This project is able to read a .txt file containing a Sudoku with a specific format and solve it. For the program to successfully recognize the text as a Sudoku, the following are required:  
+This program is able to read a .txt file containing a Sudoku with a specific format and solve it. For the program to successfully recognize the text as a Sudoku, the following are required:  
 1. Every unknown square is encoded as the digit 0
 2. Every known square is encoded as the digit that appears on the square
 3. The order of the digits that appear in the text file is the same as the order of the digits that appear on the Sudoku
